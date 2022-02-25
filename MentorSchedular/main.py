@@ -37,5 +37,6 @@ Contributor Name: Maria, Skills: {'Python': 3}
 
 {('C++', 2): [Anna], ('HTML', 5): [Bob], ('CSS', 5): [Bob], ('Python', 3): [Maria]}
 
-[Logging [Anna], WebServer [Anna, Bob], WebChat [Bob, Maria]]  
+[(Logging 0 5 [Anna] 10), (WebServer 0 7 [Anna, Bob] 10), (WebChat 
+10 10 [Bob, Maria] 20)]
 '''
